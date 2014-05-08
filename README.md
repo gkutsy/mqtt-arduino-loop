@@ -5,7 +5,7 @@ mqtt-arduino-loop
 
 
 <h3>Usage:</h3>
-<p>Open the Arduino file "serial_led_loop.ino" and import the library PubSubClientLib.zip</p>
+<p>Open the Arduino file "led_mqtt_loop.ino" and import the library PubSubClientLib.zip</p>
 
 
 Credit:
